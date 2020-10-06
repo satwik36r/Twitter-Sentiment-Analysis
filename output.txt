@@ -1,0 +1,5 @@
+Assignment-2 Social Netowrk
+Number of nodes: 80
+Number of edges 79
+Average distance of network 4.320569620253164
+Average diameter of network 6
